@@ -1,4 +1,4 @@
-# Iqube-projects
+# Mini-Development-Projects
 I have 2 mini projects in game by using C.
 That is Stone-paper-scissors and Tic-Tac-Toe.
 ## In Stone paper scissors, Player has to play with AI.
